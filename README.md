@@ -39,8 +39,7 @@ I'm a passionate developer with a strong foundation in C, C++, Python, and Postg
 
 ## 📫 Contact Me
 
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile) <!-- (Optional, add your real link) -->
+- Telegram: [@Jakem_39](https://t.me/Jakem_39)
 
 ---
 
