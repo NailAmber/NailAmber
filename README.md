@@ -21,8 +21,8 @@ I'm a passionate developer with a strong foundation in C, C++, Python, and Postg
 
 ## 📈 GitHub Stats
 
-![NailAmber's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NailAmber&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NailAmber&layout=compact&theme=onedark)
+![NailAmber's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NailAmber&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NailAmber&layout=compact&theme=tokyonight)
 
 ## 🌱 Currently Learning
 
