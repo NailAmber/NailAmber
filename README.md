@@ -4,8 +4,8 @@
 I'm a passionate **developer and DevOps enthusiast** with a strong foundation in **C, C++, Python, and PostgreSQL**.  
 Currently, I'm sharpening my backend and DevOps skills at [School 21](https://21-school.ru/), where I collaborate on projects and explore modern infrastructure practices.  
 
-- 🌱 Exploring **cloud platforms, monitoring, and automation**.  
 - 🐧 Advocate for **Free Software** and Open Source.  
+- 🌱 Exploring **cloud platforms, monitoring, and automation**.  
 - 🤖 Enthusiast for **neural networks and AI**.  
 - 🎵 Music lover—listening and learning to play.
 
