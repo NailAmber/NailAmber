@@ -6,7 +6,6 @@ Currently, I'm sharpening my backend and DevOps skills at [School 21](https://21
 
 - 🐧 Advocate for **Free Software** and Open Source.  
 - 🌱 Exploring **cloud platforms, monitoring, and automation**.  
-- 🤖 Enthusiast for **neural networks and AI**.  
 - 🎵 Music lover—listening and learning to play.
 
 
