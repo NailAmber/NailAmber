@@ -43,7 +43,7 @@ My ongoing DevOps playground where I experiment with **Docker Compose**, **Prome
 
 ![NailAmber's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NailAmber&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NailAmber&layout=compact&theme=cobalt)  
-![GitHub Streak](https://streak-stats.demolab.com?user=NailAmber&theme=cobalt)
+![GitHub Streak](https://streak-stats.demolab.com?user=NailAmber&theme=cobalt)  
 
 ---
 
