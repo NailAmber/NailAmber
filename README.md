@@ -52,8 +52,10 @@ My ongoing DevOps playground where I experiment with **Docker Compose**, **Prome
 - **DevOps tools:** Docker, Kubernetes, CI/CD  
 - **Monitoring & Observability:** Prometheus, Grafana  
 - **Cloud Infrastructure & Automation**  
-- **Advanced backend development**  
+- **Advanced backend development**
 
+## 📊 Roadmap.sh Stats  
+[![roadmap.sh](https://roadmap.sh/card/tall/68d5f18dd7b6adb66dfcdf1e?variant=dark&roadmaps=devops)](https://roadmap.sh)
 ---
 
 ## 🎸 Hobbies  
