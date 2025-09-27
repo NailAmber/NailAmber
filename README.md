@@ -55,7 +55,7 @@ My ongoing DevOps playground where I experiment with **Docker Compose**, **Prome
 - **Advanced backend development**
 
 ## 📊 Roadmap.sh Stats  
-[![roadmap.sh](https://roadmap.sh/card/tall/68d5f18dd7b6adb66dfcdf1e?variant=dark&roadmaps=devops)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/68d5f18dd7b6adb66dfcdf1e?variant=dark)](https://roadmap.sh)
 ---
 
 ## 🎸 Hobbies  
